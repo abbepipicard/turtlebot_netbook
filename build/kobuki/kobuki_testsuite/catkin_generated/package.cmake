@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "kobuki_testsuite")
+set(kobuki_testsuite_MAINTAINER "Jorge Santos Simon <jorge@yujinrobot.com>")
+set(kobuki_testsuite_DEPRECATED "")
+set(kobuki_testsuite_VERSION "0.5.8")
+set(kobuki_testsuite_BUILD_DEPENDS "python_orocos_kdl" "kobuki_node" "std_msgs" "sensor_msgs" "geometry_msgs" "message_generation")
+set(kobuki_testsuite_RUN_DEPENDS "python_orocos_kdl" "kobuki_node" "std_msgs" "sensor_msgs" "geometry_msgs" "message_runtime")
+set(kobuki_testsuite_BUILDTOOL_DEPENDS "catkin")

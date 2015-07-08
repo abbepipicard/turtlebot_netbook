@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_bringup")
+set(turtlebot_bringup_MAINTAINER "Daniel Stonier <d.stonier@gmail.com>")
+set(turtlebot_bringup_DEPRECATED "")
+set(turtlebot_bringup_VERSION "2.2.5")
+set(turtlebot_bringup_BUILD_DEPENDS )
+set(turtlebot_bringup_RUN_DEPENDS "zeroconf_avahi" "yocs_cmd_vel_mux" "kobuki_node" "kobuki_bumper2pc" "kobuki_safety_controller" "create_node" "turtlebot_description" "robot_state_publisher" "robot_pose_ekf" "diagnostic_aggregator" "openni_launch" "linux_hardware" "rocon_app_manager" "depthimage_to_laserscan")
+set(turtlebot_bringup_BUILDTOOL_DEPENDS "catkin")

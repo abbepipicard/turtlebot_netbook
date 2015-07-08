@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "yocs_cmd_vel_mux")
+set(yocs_cmd_vel_mux_MAINTAINER "Jorge Santos Simon <jorge@yujinrobot.com>")
+set(yocs_cmd_vel_mux_DEPRECATED "")
+set(yocs_cmd_vel_mux_VERSION "0.5.3")
+set(yocs_cmd_vel_mux_BUILD_DEPENDS "roscpp" "nodelet" "dynamic_reconfigure" "pluginlib" "geometry_msgs" "yaml-cpp")
+set(yocs_cmd_vel_mux_RUN_DEPENDS "roscpp" "geometry_msgs" "pluginlib" "nodelet" "dynamic_reconfigure" "yaml-cpp")
+set(yocs_cmd_vel_mux_BUILDTOOL_DEPENDS "catkin")

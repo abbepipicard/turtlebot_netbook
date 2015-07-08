@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "yocs_msgs")
+set(yocs_msgs_MAINTAINER "Jorge Santos <jorge@rnd.yujinrobot.com>")
+set(yocs_msgs_DEPRECATED "")
+set(yocs_msgs_VERSION "0.5.2")
+set(yocs_msgs_BUILD_DEPENDS "std_msgs" "std_srvs" "geometry_msgs" "message_generation")
+set(yocs_msgs_RUN_DEPENDS "std_msgs" "std_srvs" "geometry_msgs" "message_runtime")
+set(yocs_msgs_BUILDTOOL_DEPENDS "catkin")

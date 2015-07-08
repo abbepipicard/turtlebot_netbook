@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "yocs_waypoints_navi")
+set(yocs_waypoints_navi_MAINTAINER "Jorge Santos Simon <jorge@yujinrobot.com>")
+set(yocs_waypoints_navi_DEPRECATED "")
+set(yocs_waypoints_navi_VERSION "0.5.3")
+set(yocs_waypoints_navi_BUILD_DEPENDS "tf" "roscpp" "actionlib" "nav_msgs" "geometry_msgs" "move_base_msgs" "actionlib_msgs" "visualization_msgs" "yocs_math_toolkit" "yaml-cpp")
+set(yocs_waypoints_navi_RUN_DEPENDS "tf" "roscpp" "actionlib" "nav_msgs" "geometry_msgs" "move_base_msgs" "actionlib_msgs" "visualization_msgs" "yocs_math_toolkit" "yaml-cpp")
+set(yocs_waypoints_navi_BUILDTOOL_DEPENDS "catkin")

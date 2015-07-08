@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_create_desktop")
+set(turtlebot_create_desktop_MAINTAINER "Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>")
+set(turtlebot_create_desktop_DEPRECATED "")
+set(turtlebot_create_desktop_VERSION "2.2.2")
+set(turtlebot_create_desktop_BUILD_DEPENDS )
+set(turtlebot_create_desktop_RUN_DEPENDS "create_dashboard" "create_gazebo_plugins")
+set(turtlebot_create_desktop_BUILDTOOL_DEPENDS "catkin")

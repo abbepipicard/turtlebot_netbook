@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_simulator")
+set(turtlebot_simulator_MAINTAINER "OSRF <turtlebot@osrfoundation.com>")
+set(turtlebot_simulator_DEPRECATED "")
+set(turtlebot_simulator_VERSION "2.1.1")
+set(turtlebot_simulator_BUILD_DEPENDS )
+set(turtlebot_simulator_RUN_DEPENDS "turtlebot_gazebo")
+set(turtlebot_simulator_BUILDTOOL_DEPENDS "catkin")

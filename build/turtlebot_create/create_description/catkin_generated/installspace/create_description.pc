@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: create_description
+Description: Description of create_description
+Version: 2.2.1
+Cflags: 
+Libs: -L/home/sl-zhang/turtlebot/install/lib 
+Requires: urdf xacro

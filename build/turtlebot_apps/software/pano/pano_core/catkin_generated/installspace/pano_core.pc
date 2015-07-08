@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: pano_core
+Description: Description of pano_core
+Version: 2.2.5
+Cflags: -I/home/sl-zhang/turtlebot/install/include -I/usr/include
+Libs: -L/home/sl-zhang/turtlebot/install/lib -lpano_core -l:/usr/lib/libboost_program_options-mt.so
+Requires: cv_bridge roscpp

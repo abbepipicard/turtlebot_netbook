@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: create_dashboard
+Description: Description of create_dashboard
+Version: 2.2.2
+Cflags: 
+Libs: -L/home/sl-zhang/turtlebot/install/lib 
+Requires: 

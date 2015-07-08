@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: turtlebot_panorama
+Description: Description of turtlebot_panorama
+Version: 2.2.5
+Cflags: -I/home/sl-zhang/turtlebot/install/include -I/usr/include -I/usr/include/eigen3
+Libs: -L/home/sl-zhang/turtlebot/install/lib -l:/usr/lib/libboost_system-mt.so
+Requires: roscpp actionlib std_msgs std_srvs nav_msgs sensor_msgs geometry_msgs turtlebot_msgs image_transport pano_ros

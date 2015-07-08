@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/devel
+
+Name: pano_ros
+Description: Description of pano_ros
+Version: 2.2.5
+Cflags: -I/home/sl-zhang/turtlebot/devel/include
+Libs: -L/home/sl-zhang/turtlebot/devel/lib 
+Requires: std_msgs sensor_msgs actionlib_msgs message_runtime

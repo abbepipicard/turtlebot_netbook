@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "create_dashboard")
+set(create_dashboard_MAINTAINER "Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>")
+set(create_dashboard_DEPRECATED "")
+set(create_dashboard_VERSION "2.2.2")
+set(create_dashboard_BUILD_DEPENDS "create_node" "diagnostic_msgs" "rospy" "rqt_gui" "rqt_gui_py" "rqt_robot_dashboard")
+set(create_dashboard_RUN_DEPENDS "create_node" "diagnostic_msgs" "rospy" "rqt_gui" "rqt_gui_py" "rqt_robot_dashboard")
+set(create_dashboard_BUILDTOOL_DEPENDS "catkin")

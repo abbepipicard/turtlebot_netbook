@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_follower")
+set(turtlebot_follower_MAINTAINER "Daniel Stonier <stonier@rnd.yujinrobot.com>")
+set(turtlebot_follower_DEPRECATED "")
+set(turtlebot_follower_VERSION "2.2.5")
+set(turtlebot_follower_BUILD_DEPENDS "nodelet" "pcl_ros" "roscpp" "visualization_msgs" "dynamic_reconfigure" "turtlebot_msgs")
+set(turtlebot_follower_RUN_DEPENDS "nodelet" "pcl_ros" "roscpp" "visualization_msgs" "dynamic_reconfigure" "turtlebot_bringup" "turtlebot_msgs")
+set(turtlebot_follower_BUILDTOOL_DEPENDS "catkin")

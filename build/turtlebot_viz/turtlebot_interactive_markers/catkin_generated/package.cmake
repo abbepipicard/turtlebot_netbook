@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_interactive_markers")
+set(turtlebot_interactive_markers_MAINTAINER "Daniel Stonier <stonier@yujinrobot.com>")
+set(turtlebot_interactive_markers_DEPRECATED "")
+set(turtlebot_interactive_markers_VERSION "2.2.3")
+set(turtlebot_interactive_markers_BUILD_DEPENDS "roscpp" "visualization_msgs" "interactive_markers")
+set(turtlebot_interactive_markers_RUN_DEPENDS "roscpp" "visualization_msgs" "interactive_markers" "turtlebot_bringup")
+set(turtlebot_interactive_markers_BUILDTOOL_DEPENDS "catkin")

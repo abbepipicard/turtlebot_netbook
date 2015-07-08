@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "create_description")
+set(create_description_MAINTAINER "OSRF <turtlebot@osrfoundation.com>")
+set(create_description_DEPRECATED "")
+set(create_description_VERSION "2.2.1")
+set(create_description_BUILD_DEPENDS )
+set(create_description_RUN_DEPENDS "urdf" "xacro")
+set(create_description_BUILDTOOL_DEPENDS "catkin")

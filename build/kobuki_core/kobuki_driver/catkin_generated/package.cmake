@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "kobuki_driver")
+set(kobuki_driver_MAINTAINER "Daniel Stonier <stonier@yujinrobot.com>")
+set(kobuki_driver_DEPRECATED "")
+set(kobuki_driver_VERSION "0.5.4")
+set(kobuki_driver_BUILD_DEPENDS "ecl_mobile_robot" "ecl_converters" "ecl_devices" "ecl_geometry" "ecl_sigslots" "ecl_time" "ecl_command_line")
+set(kobuki_driver_RUN_DEPENDS "ecl_mobile_robot" "ecl_converters" "ecl_devices" "ecl_geometry" "ecl_sigslots" "ecl_time" "ecl_command_line")
+set(kobuki_driver_BUILDTOOL_DEPENDS "catkin")

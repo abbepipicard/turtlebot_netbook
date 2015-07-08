@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "kobuki_dock_drive")
+set(kobuki_dock_drive_MAINTAINER "Younghun Ju <yhju@yujinrobot.com>")
+set(kobuki_dock_drive_DEPRECATED "")
+set(kobuki_dock_drive_VERSION "0.5.4")
+set(kobuki_dock_drive_BUILD_DEPENDS "ecl_threads" "ecl_geometry" "ecl_linear_algebra")
+set(kobuki_dock_drive_RUN_DEPENDS "ecl_threads" "ecl_geometry" "ecl_linear_algebra")
+set(kobuki_dock_drive_BUILDTOOL_DEPENDS "catkin")

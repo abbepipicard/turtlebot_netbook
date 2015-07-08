@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/devel
+
+Name: yocs_cmd_vel_mux
+Description: Description of yocs_cmd_vel_mux
+Version: 0.5.3
+Cflags: -I/home/sl-zhang/turtlebot/devel/include -I/home/sl-zhang/turtlebot/src/yujin_ocs/yocs_cmd_vel_mux/include
+Libs: -L/home/sl-zhang/turtlebot/devel/lib -lyocs_cmd_vel_mux_nodelet -lyaml-cpp
+Requires: roscpp pluginlib nodelet dynamic_reconfigure geometry_msgs

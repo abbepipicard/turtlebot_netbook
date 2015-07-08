@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/devel
+
+Name: kobuki_dashboard
+Description: Description of kobuki_dashboard
+Version: 0.3.3
+Cflags: 
+Libs: -L/home/sl-zhang/turtlebot/devel/lib 
+Requires: 

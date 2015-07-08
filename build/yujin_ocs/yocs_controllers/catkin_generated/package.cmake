@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "yocs_controllers")
+set(yocs_controllers_MAINTAINER "Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>")
+set(yocs_controllers_DEPRECATED "")
+set(yocs_controllers_VERSION "0.5.3")
+set(yocs_controllers_BUILD_DEPENDS "roscpp")
+set(yocs_controllers_RUN_DEPENDS "roscpp")
+set(yocs_controllers_BUILDTOOL_DEPENDS "catkin")

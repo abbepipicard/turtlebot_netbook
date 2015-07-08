@@ -1,0 +1,12 @@
+<!--
+    The turtlebot simulator based on rbx1 with the ability of teleop 
+-->
+<launch>
+    <include file="$(find turtlebot_own_sim)/launch/fake_turtlebot.launch"/>
+    
+    <!-- node name="rviz" pkg="rviz" type="rviz" args="-d $(find turtlebot_own_sim)/sim.rviz" / -->
+<!--
+    it's seems that ros will excecute launchfile in the order by which you wrote the launchfile
+-->
+    <include file="$(find turtlebot_own_sim)/launch/teleop_stick.launch"/>
+</launch>

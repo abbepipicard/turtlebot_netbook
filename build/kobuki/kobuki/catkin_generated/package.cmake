@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "kobuki")
+set(kobuki_MAINTAINER "Daniel Stonier <stonier@yujinrobot.com>")
+set(kobuki_DEPRECATED "")
+set(kobuki_VERSION "0.5.8")
+set(kobuki_BUILD_DEPENDS )
+set(kobuki_RUN_DEPENDS "kobuki_auto_docking" "kobuki_bumper2pc" "kobuki_controller_tutorial" "kobuki_description" "kobuki_keyop" "kobuki_node" "kobuki_random_walker" "kobuki_safety_controller" "kobuki_testsuite")
+set(kobuki_BUILDTOOL_DEPENDS "catkin")

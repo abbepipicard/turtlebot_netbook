@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_msgs")
+set(turtlebot_msgs_MAINTAINER "Jorge Santos <jorge@rnd.yujinrobot.com>")
+set(turtlebot_msgs_DEPRECATED "")
+set(turtlebot_msgs_VERSION "2.2.0")
+set(turtlebot_msgs_BUILD_DEPENDS "std_msgs" "std_srvs" "sensor_msgs" "message_generation")
+set(turtlebot_msgs_RUN_DEPENDS "std_msgs" "std_srvs" "sensor_msgs" "message_runtime")
+set(turtlebot_msgs_BUILDTOOL_DEPENDS "catkin")

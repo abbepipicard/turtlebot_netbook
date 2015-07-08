@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "kobuki_random_walker")
+set(kobuki_random_walker_MAINTAINER "Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>")
+set(kobuki_random_walker_DEPRECATED "")
+set(kobuki_random_walker_VERSION "0.5.8")
+set(kobuki_random_walker_BUILD_DEPENDS "ecl_threads" "geometry_msgs" "kobuki_msgs" "nodelet" "pluginlib" "roscpp" "std_msgs" "yocs_controllers")
+set(kobuki_random_walker_RUN_DEPENDS "ecl_threads" "geometry_msgs" "kobuki_msgs" "nodelet" "pluginlib" "roscpp" "std_msgs" "yocs_controllers" "yocs_cmd_vel_mux")
+set(kobuki_random_walker_BUILDTOOL_DEPENDS "catkin")

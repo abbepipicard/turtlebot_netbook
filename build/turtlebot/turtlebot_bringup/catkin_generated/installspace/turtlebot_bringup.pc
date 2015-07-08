@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: turtlebot_bringup
+Description: Description of turtlebot_bringup
+Version: 2.2.5
+Cflags: 
+Libs: -L/home/sl-zhang/turtlebot/install/lib 
+Requires: 

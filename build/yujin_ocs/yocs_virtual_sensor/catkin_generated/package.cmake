@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "yocs_virtual_sensor")
+set(yocs_virtual_sensor_MAINTAINER "Jorge Santos <jorge@yujinrobot.com>")
+set(yocs_virtual_sensor_DEPRECATED "")
+set(yocs_virtual_sensor_VERSION "0.5.3")
+set(yocs_virtual_sensor_BUILD_DEPENDS "tf" "roscpp" "sensor_msgs" "geometry_msgs" "yocs_msgs" "yocs_math_toolkit")
+set(yocs_virtual_sensor_RUN_DEPENDS "tf" "roscpp" "sensor_msgs" "geometry_msgs" "yocs_msgs" "yocs_math_toolkit" "rospy" "rospy_message_converter" "visualization_msgs")
+set(yocs_virtual_sensor_BUILDTOOL_DEPENDS "catkin")

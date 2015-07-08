@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: kobuki_driver
+Description: Description of kobuki_driver
+Version: 0.5.4
+Cflags: -I/home/sl-zhang/turtlebot/install/include
+Libs: -L/home/sl-zhang/turtlebot/install/lib -lkobuki
+Requires: ecl_mobile_robot ecl_converters ecl_devices ecl_geometry ecl_sigslots ecl_time ecl_command_line

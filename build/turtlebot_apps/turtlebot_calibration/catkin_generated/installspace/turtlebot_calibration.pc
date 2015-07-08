@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: turtlebot_calibration
+Description: Description of turtlebot_calibration
+Version: 2.2.5
+Cflags: -I/home/sl-zhang/turtlebot/install/include
+Libs: -L/home/sl-zhang/turtlebot/install/lib 
+Requires: std_msgs message_runtime

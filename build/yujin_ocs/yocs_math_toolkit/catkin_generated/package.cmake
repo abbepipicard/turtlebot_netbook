@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "yocs_math_toolkit")
+set(yocs_math_toolkit_MAINTAINER "Jorge Santos <jorge@yujinrobot.com>")
+set(yocs_math_toolkit_DEPRECATED "")
+set(yocs_math_toolkit_VERSION "0.5.3")
+set(yocs_math_toolkit_BUILD_DEPENDS "tf" "roscpp" "geometry_msgs")
+set(yocs_math_toolkit_RUN_DEPENDS "tf" "roscpp" "geometry_msgs")
+set(yocs_math_toolkit_BUILDTOOL_DEPENDS "catkin")

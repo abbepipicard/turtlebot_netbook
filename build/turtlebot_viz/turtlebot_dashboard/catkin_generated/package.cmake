@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_dashboard")
+set(turtlebot_dashboard_MAINTAINER "Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>")
+set(turtlebot_dashboard_DEPRECATED "")
+set(turtlebot_dashboard_VERSION "2.2.3")
+set(turtlebot_dashboard_BUILD_DEPENDS )
+set(turtlebot_dashboard_RUN_DEPENDS "create_dashboard" "kobuki_dashboard")
+set(turtlebot_dashboard_BUILDTOOL_DEPENDS "catkin")

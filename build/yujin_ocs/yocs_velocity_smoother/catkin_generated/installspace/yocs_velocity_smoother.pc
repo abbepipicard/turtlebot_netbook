@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: yocs_velocity_smoother
+Description: Description of yocs_velocity_smoother
+Version: 0.5.3
+Cflags: -I/home/sl-zhang/turtlebot/install/include
+Libs: -L/home/sl-zhang/turtlebot/install/lib -lyocs_velocity_smoother_nodelet
+Requires: roscpp pluginlib nodelet ecl_threads dynamic_reconfigure geometry_msgs nav_msgs

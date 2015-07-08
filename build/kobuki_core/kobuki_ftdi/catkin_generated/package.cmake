@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "kobuki_ftdi")
+set(kobuki_ftdi_MAINTAINER "Younghun Ju <yhju@yujinrobot.com>")
+set(kobuki_ftdi_DEPRECATED "")
+set(kobuki_ftdi_VERSION "0.5.4")
+set(kobuki_ftdi_BUILD_DEPENDS "ecl_command_line" "libusb-dev" "libftdi-dev" "ftdi-eeprom")
+set(kobuki_ftdi_RUN_DEPENDS "ecl_command_line" "libusb-dev" "libftdi-dev" "ftdi-eeprom")
+set(kobuki_ftdi_BUILDTOOL_DEPENDS "catkin")

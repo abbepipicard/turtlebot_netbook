@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: turtlebot_core_apps
+Description: Description of turtlebot_core_apps
+Version: 2.2.5
+Cflags: 
+Libs: -L/home/sl-zhang/turtlebot/install/lib 
+Requires: 

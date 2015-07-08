@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_teleop")
+set(turtlebot_teleop_MAINTAINER "Melonee Wise <mwise@willowgarage.com>")
+set(turtlebot_teleop_DEPRECATED "")
+set(turtlebot_teleop_VERSION "2.2.5")
+set(turtlebot_teleop_BUILD_DEPENDS "roscpp" "geometry_msgs" "joy")
+set(turtlebot_teleop_RUN_DEPENDS "roscpp" "geometry_msgs" "joy" "kobuki_safety_controller" "yocs_velocity_smoother" "turtlebot_bringup")
+set(turtlebot_teleop_BUILDTOOL_DEPENDS "catkin")

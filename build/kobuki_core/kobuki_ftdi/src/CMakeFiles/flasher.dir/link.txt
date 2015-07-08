@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/flasher.dir/flasher.cpp.o  -o /home/sl-zhang/turtlebot/devel/lib/kobuki_ftdi/flasher -rdynamic -lusb -lftdi 

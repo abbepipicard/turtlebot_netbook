@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "kobuki_controller_tutorial")
+set(kobuki_controller_tutorial_MAINTAINER "Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>")
+set(kobuki_controller_tutorial_DEPRECATED "")
+set(kobuki_controller_tutorial_VERSION "0.5.8")
+set(kobuki_controller_tutorial_BUILD_DEPENDS "roscpp" "nodelet" "pluginlib" "std_msgs" "kobuki_msgs" "yocs_controllers")
+set(kobuki_controller_tutorial_RUN_DEPENDS "roscpp" "nodelet" "pluginlib" "std_msgs" "kobuki_msgs" "yocs_controllers")
+set(kobuki_controller_tutorial_BUILDTOOL_DEPENDS "catkin")

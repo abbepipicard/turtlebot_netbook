@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/devel
+
+Name: turtlebot_navigation
+Description: Description of turtlebot_navigation
+Version: 2.2.5
+Cflags: 
+Libs: -L/home/sl-zhang/turtlebot/devel/lib 
+Requires: tf roscpp sensor_msgs

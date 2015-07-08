@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "kobuki_dashboard")
+set(kobuki_dashboard_MAINTAINER "Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>")
+set(kobuki_dashboard_DEPRECATED "")
+set(kobuki_dashboard_VERSION "0.3.3")
+set(kobuki_dashboard_BUILD_DEPENDS "rospy" "rqt_robot_dashboard" "kobuki_msgs")
+set(kobuki_dashboard_RUN_DEPENDS "rospy" "rqt_robot_dashboard" "kobuki_msgs")
+set(kobuki_dashboard_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_apps")
+set(turtlebot_apps_MAINTAINER "Daniel Stonier <stonier@rnd.yujinrobot.com>, Tully Foote <tfoote@osrfoundation.org>, Melonee Wise <mwise@willowgarage.com>")
+set(turtlebot_apps_DEPRECATED "")
+set(turtlebot_apps_VERSION "2.2.5")
+set(turtlebot_apps_BUILD_DEPENDS )
+set(turtlebot_apps_RUN_DEPENDS "pano_core" "pano_py" "pano_ros" "turtlebot_actions" "turtlebot_calibration" "turtlebot_core_apps" "turtlebot_follower" "turtlebot_navigation" "turtlebot_panorama" "turtlebot_teleop")
+set(turtlebot_apps_BUILDTOOL_DEPENDS "catkin")

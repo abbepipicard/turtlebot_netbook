@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_calibration")
+set(turtlebot_calibration_MAINTAINER "OSRF <turtlebot@osrfoundation.org>")
+set(turtlebot_calibration_DEPRECATED "")
+set(turtlebot_calibration_VERSION "2.2.5")
+set(turtlebot_calibration_BUILD_DEPENDS "rospy" "std_msgs" "sensor_msgs" "nav_msgs" "geometry_msgs" "message_generation" "python_orocos_kdl")
+set(turtlebot_calibration_RUN_DEPENDS "rospy" "std_msgs" "sensor_msgs" "nav_msgs" "geometry_msgs" "message_runtime" "python_orocos_kdl" "turtlebot_bringup")
+set(turtlebot_calibration_BUILDTOOL_DEPENDS "catkin")

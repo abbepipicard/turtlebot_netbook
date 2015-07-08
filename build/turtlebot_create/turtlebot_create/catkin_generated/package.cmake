@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_create")
+set(turtlebot_create_MAINTAINER "OSRF <turtlebot@osrfoundation.com>")
+set(turtlebot_create_DEPRECATED "")
+set(turtlebot_create_VERSION "2.2.1")
+set(turtlebot_create_BUILD_DEPENDS )
+set(turtlebot_create_RUN_DEPENDS "create_description" "create_driver" "create_node")
+set(turtlebot_create_BUILDTOOL_DEPENDS "catkin")

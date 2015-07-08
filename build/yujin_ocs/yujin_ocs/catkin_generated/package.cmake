@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "yujin_ocs")
+set(yujin_ocs_MAINTAINER "Jorge Santos Simon <jorge@rnd.yujinrobot.com>")
+set(yujin_ocs_DEPRECATED "")
+set(yujin_ocs_VERSION "0.5.3")
+set(yujin_ocs_BUILD_DEPENDS )
+set(yujin_ocs_RUN_DEPENDS "yocs_cmd_vel_mux" "yocs_controllers" "yocs_diff_drive_pose_controller" "yocs_math_toolkit" "yocs_velocity_smoother" "yocs_virtual_sensor" "yocs_waypoints_navi")
+set(yujin_ocs_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: yocs_diff_drive_pose_controller
+Description: Description of yocs_diff_drive_pose_controller
+Version: 0.5.3
+Cflags: -I/home/sl-zhang/turtlebot/install/include
+Libs: -L/home/sl-zhang/turtlebot/install/lib -lyocs_diff_drive_pose_controller_nodelet
+Requires: ecl_threads geometry_msgs nodelet pluginlib roscpp sensor_msgs std_msgs tf yocs_controllers

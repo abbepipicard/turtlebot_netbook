@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: kobuki_qtestsuite
+Description: Description of kobuki_qtestsuite
+Version: 0.3.3
+Cflags: 
+Libs: -L/home/sl-zhang/turtlebot/install/lib 
+Requires: 

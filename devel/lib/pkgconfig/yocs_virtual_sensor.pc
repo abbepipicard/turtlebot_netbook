@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/devel
+
+Name: yocs_virtual_sensor
+Description: Description of yocs_virtual_sensor
+Version: 0.5.3
+Cflags: -I/home/sl-zhang/turtlebot/src/yujin_ocs/yocs_virtual_sensor/include -I/usr/include
+Libs: -L/home/sl-zhang/turtlebot/devel/lib -l:/usr/lib/libboost_system-mt.so
+Requires: tf roscpp sensor_msgs geometry_msgs yocs_msgs yocs_math_toolkit

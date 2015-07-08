@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "linux_hardware")
+set(linux_hardware_MAINTAINER "Daniel Stonier <d.stonier@gmail.com>")
+set(linux_hardware_DEPRECATED "")
+set(linux_hardware_VERSION "2.2.5")
+set(linux_hardware_BUILD_DEPENDS "diagnostic_msgs" "message_generation" "std_msgs")
+set(linux_hardware_RUN_DEPENDS "rospy" "diagnostic_msgs" "std_msgs" "message_runtime")
+set(linux_hardware_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "kobuki_gazebo_plugins")
+set(kobuki_gazebo_plugins_MAINTAINER "Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>")
+set(kobuki_gazebo_plugins_DEPRECATED "")
+set(kobuki_gazebo_plugins_VERSION "0.3.3")
+set(kobuki_gazebo_plugins_BUILD_DEPENDS "boost" "gazebo_ros" "geometry_msgs" "kobuki_msgs" "nav_msgs" "roscpp" "sensor_msgs" "std_msgs" "tf")
+set(kobuki_gazebo_plugins_RUN_DEPENDS "boost" "gazebo_ros" "geometry_msgs" "kobuki_msgs" "nav_msgs" "roscpp" "sensor_msgs" "std_msgs" "tf")
+set(kobuki_gazebo_plugins_BUILDTOOL_DEPENDS "catkin")

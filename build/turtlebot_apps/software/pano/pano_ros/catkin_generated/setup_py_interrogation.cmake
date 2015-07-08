@@ -1,0 +1,6 @@
+set(pano_ros_SETUP_PY_VERSION "2.2.5")
+set(pano_ros_SETUP_PY_SCRIPTS "")
+set(pano_ros_SETUP_PY_PACKAGES "pano_ros")
+set(pano_ros_SETUP_PY_PACKAGE_DIRS "src/pano_ros")
+set(pano_ros_SETUP_PY_MODULES "")
+set(pano_ros_SETUP_PY_MODULE_DIRS "")

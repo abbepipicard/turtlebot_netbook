@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "turtlebot_viz")
+set(turtlebot_viz_MAINTAINER "Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>")
+set(turtlebot_viz_DEPRECATED "")
+set(turtlebot_viz_VERSION "2.2.3")
+set(turtlebot_viz_BUILD_DEPENDS )
+set(turtlebot_viz_RUN_DEPENDS "turtlebot_dashboard" "turtlebot_interactive_markers" "turtlebot_rviz_launchers")
+set(turtlebot_viz_BUILDTOOL_DEPENDS "catkin")

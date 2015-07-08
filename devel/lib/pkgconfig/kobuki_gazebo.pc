@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/devel
+
+Name: kobuki_gazebo
+Description: Description of kobuki_gazebo
+Version: 0.3.3
+Cflags: 
+Libs: -L/home/sl-zhang/turtlebot/devel/lib 
+Requires: 

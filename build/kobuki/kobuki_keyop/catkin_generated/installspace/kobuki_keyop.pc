@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: kobuki_keyop
+Description: Description of kobuki_keyop
+Version: 0.5.8
+Cflags: -I/home/sl-zhang/turtlebot/install/include
+Libs: -L/home/sl-zhang/turtlebot/install/lib -lkobuki
+Requires: geometry_msgs std_srvs std_msgs roscpp ecl_exceptions ecl_threads ecl_time kobuki_msgs

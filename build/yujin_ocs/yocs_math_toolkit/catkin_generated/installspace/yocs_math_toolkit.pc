@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: yocs_math_toolkit
+Description: Description of yocs_math_toolkit
+Version: 0.5.3
+Cflags: -I/home/sl-zhang/turtlebot/install/include
+Libs: -L/home/sl-zhang/turtlebot/install/lib -lyocs_math_toolkit
+Requires: tf roscpp geometry_msgs

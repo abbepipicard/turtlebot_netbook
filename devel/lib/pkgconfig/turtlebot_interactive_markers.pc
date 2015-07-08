@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/devel
+
+Name: turtlebot_interactive_markers
+Description: Description of turtlebot_interactive_markers
+Version: 2.2.3
+Cflags: 
+Libs: -L/home/sl-zhang/turtlebot/devel/lib 
+Requires: 

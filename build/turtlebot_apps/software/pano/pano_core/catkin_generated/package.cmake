@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "pano_core")
+set(pano_core_MAINTAINER "Jihoon Lee <jihoonlee.in@gmail.com>")
+set(pano_core_DEPRECATED "")
+set(pano_core_VERSION "2.2.5")
+set(pano_core_BUILD_DEPENDS "cv_bridge" "roscpp")
+set(pano_core_RUN_DEPENDS "cv_bridge" "roscpp")
+set(pano_core_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "pano_ros")
+set(pano_ros_MAINTAINER "Jihoon Lee <jihoonlee.in@gmail.com>")
+set(pano_ros_DEPRECATED "")
+set(pano_ros_VERSION "2.2.5")
+set(pano_ros_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "sensor_msgs" "actionlib" "actionlib_msgs" "message_generation" "image_transport" "cv_bridge" "pano_py")
+set(pano_ros_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "sensor_msgs" "actionlib" "actionlib_msgs" "message_runtime" "image_transport" "cv_bridge" "pano_py")
+set(pano_ros_BUILDTOOL_DEPENDS "catkin")

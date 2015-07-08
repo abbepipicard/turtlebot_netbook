@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: kobuki_bumper2pc
+Description: Description of kobuki_bumper2pc
+Version: 0.5.8
+Cflags: -I/home/sl-zhang/turtlebot/install/include
+Libs: -L/home/sl-zhang/turtlebot/install/lib -lkobuki_bumper2pc_nodelet
+Requires: roscpp nodelet pluginlib sensor_msgs kobuki_msgs

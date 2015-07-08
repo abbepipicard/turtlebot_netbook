@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/devel
+
+Name: yocs_waypoints_navi
+Description: Description of yocs_waypoints_navi
+Version: 0.5.3
+Cflags: 
+Libs: -L/home/sl-zhang/turtlebot/devel/lib -lyaml-cpp
+Requires: visualization_msgs move_base_msgs actionlib_msgs geometry_msgs nav_msgs actionlib roscpp tf yocs_math_toolkit

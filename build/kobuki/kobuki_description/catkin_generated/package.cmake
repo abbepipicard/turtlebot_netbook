@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "kobuki_description")
+set(kobuki_description_MAINTAINER "Younghun Ju <yhju@yujinrobot.com>")
+set(kobuki_description_DEPRECATED "")
+set(kobuki_description_VERSION "0.5.8")
+set(kobuki_description_BUILD_DEPENDS "urdf" "xacro")
+set(kobuki_description_RUN_DEPENDS "urdf" "xacro")
+set(kobuki_description_BUILDTOOL_DEPENDS "catkin")

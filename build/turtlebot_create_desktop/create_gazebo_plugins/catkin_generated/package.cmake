@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "create_gazebo_plugins")
+set(create_gazebo_plugins_MAINTAINER "Nate Koenig <nate@osrfoundation.org>")
+set(create_gazebo_plugins_DEPRECATED "")
+set(create_gazebo_plugins_VERSION "2.2.2")
+set(create_gazebo_plugins_BUILD_DEPENDS "create_node" "gazebo_ros" "geometry_msgs" "nav_msgs" "roscpp" "sensor_msgs")
+set(create_gazebo_plugins_RUN_DEPENDS "create_node" "gazebo_ros" "geometry_msgs" "nav_msgs" "roscpp" "sensor_msgs")
+set(create_gazebo_plugins_BUILDTOOL_DEPENDS "catkin")

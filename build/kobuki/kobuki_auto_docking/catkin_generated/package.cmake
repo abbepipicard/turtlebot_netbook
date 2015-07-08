@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "kobuki_auto_docking")
+set(kobuki_auto_docking_MAINTAINER "Younghun Ju <yhju@yujinrobot.com>")
+set(kobuki_auto_docking_DEPRECATED "")
+set(kobuki_auto_docking_VERSION "0.5.8")
+set(kobuki_auto_docking_BUILD_DEPENDS "roscpp" "rospy" "nodelet" "pluginlib" "message_filters" "actionlib" "kdl_conversions" "std_msgs" "nav_msgs" "geometry_msgs" "actionlib_msgs" "kobuki_msgs" "kobuki_dock_drive" "ecl_threads" "ecl_geometry" "ecl_linear_algebra")
+set(kobuki_auto_docking_RUN_DEPENDS "roscpp" "rospy" "nodelet" "pluginlib" "message_filters" "actionlib" "kdl_conversions" "std_msgs" "nav_msgs" "geometry_msgs" "actionlib_msgs" "kobuki_msgs" "kobuki_dock_drive" "yocs_cmd_vel_mux" "ecl_threads" "ecl_geometry" "ecl_linear_algebra")
+set(kobuki_auto_docking_BUILDTOOL_DEPENDS "catkin")

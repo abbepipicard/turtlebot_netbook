@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: create_gazebo_plugins
+Description: Description of create_gazebo_plugins
+Version: 2.2.2
+Cflags: -I/home/sl-zhang/turtlebot/install/include
+Libs: -L/home/sl-zhang/turtlebot/install/lib -lgazebo_ros_create
+Requires: create_node gazebo_ros geometry_msgs nav_msgs roscpp sensor_msgs

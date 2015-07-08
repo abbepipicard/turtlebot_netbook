@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "kobuki_qtestsuite")
+set(kobuki_qtestsuite_MAINTAINER "Daniel Stonier <stonier@yujinrobot.com>")
+set(kobuki_qtestsuite_DEPRECATED "")
+set(kobuki_qtestsuite_VERSION "0.3.3")
+set(kobuki_qtestsuite_BUILD_DEPENDS "rospy" "kobuki_testsuite" "qt_gui_py_common" "rqt_gui" "rqt_gui_py" "rqt_py_common" "rqt_plot" "geometry_msgs" "nav_msgs" "pyqt4-dev-tools")
+set(kobuki_qtestsuite_RUN_DEPENDS "rospy" "kobuki_testsuite" "qt_gui_py_common" "rqt_gui" "rqt_gui_py" "rqt_py_common" "rqt_plot" "geometry_msgs" "nav_msgs" "pyqt4-dev-tools")
+set(kobuki_qtestsuite_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/home/sl-zhang/turtlebot/install
+
+Name: linux_hardware
+Description: Description of linux_hardware
+Version: 2.2.5
+Cflags: -I/home/sl-zhang/turtlebot/install/include
+Libs: -L/home/sl-zhang/turtlebot/install/lib 
+Requires: message_runtime std_msgs diagnostic_msgs

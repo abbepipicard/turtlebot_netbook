@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "yocs_diff_drive_pose_controller")
+set(yocs_diff_drive_pose_controller_MAINTAINER "Marcus Liebhardt <marcus.liebhardt@yujinrobot.com>")
+set(yocs_diff_drive_pose_controller_DEPRECATED "")
+set(yocs_diff_drive_pose_controller_VERSION "0.5.3")
+set(yocs_diff_drive_pose_controller_BUILD_DEPENDS "ecl_threads" "geometry_msgs" "nodelet" "pluginlib" "roscpp" "sensor_msgs" "std_msgs" "tf" "yocs_controllers")
+set(yocs_diff_drive_pose_controller_RUN_DEPENDS "ecl_threads" "geometry_msgs" "nodelet" "pluginlib" "roscpp" "sensor_msgs" "std_msgs" "tf" "yocs_controllers")
+set(yocs_diff_drive_pose_controller_BUILDTOOL_DEPENDS "catkin")

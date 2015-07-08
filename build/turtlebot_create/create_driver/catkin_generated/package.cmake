@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "create_driver")
+set(create_driver_MAINTAINER "OSRF <turtlebot@osrfoundation.org>")
+set(create_driver_DEPRECATED "")
+set(create_driver_VERSION "2.2.1")
+set(create_driver_BUILD_DEPENDS )
+set(create_driver_RUN_DEPENDS )
+set(create_driver_BUILDTOOL_DEPENDS "catkin")
